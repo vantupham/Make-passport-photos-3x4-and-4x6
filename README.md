@@ -1,2 +1,8 @@
-# Make-passport-photos-3x4-and-4x6
-Make passport photos from image with 3x4 and 4x6 size, white background or options
+Make passport ID photos
+1. Rotation imamge
+2. Remove the background
+3. Finds a face - crops the photo to 3x4 and 4x6 cm
+How to run
+    inpic folder: input images
+    rmbg folder: removed background saved auto
+    outpic folder: 3x4 and 4x6 output photos
