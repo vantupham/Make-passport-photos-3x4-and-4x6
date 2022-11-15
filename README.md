@@ -6,7 +6,7 @@
     inpic folder: input images
     rmbg folder: removed background saved auto
     outpic folder: 3x4 and 4x6 output photos
-    download face landmarks file to same folder
+    download face landmarks file and save to same folder
     run face_crop.py
 ![Screenshot](passport.png)
 ## face landmarks file
