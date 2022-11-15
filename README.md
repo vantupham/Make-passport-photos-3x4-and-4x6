@@ -7,7 +7,7 @@
     rmbg folder: removed background saved auto
     outpic folder: 3x4 and 4x6 output photos
 ![Screenshot](passport.png)
-## link face landmarks
+## download face landmarks file
     https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
-## video demo
+## demo video
     https://youtu.be/DfxD_oLBPJQ
