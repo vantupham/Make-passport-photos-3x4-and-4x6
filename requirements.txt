@@ -1,4 +1,4 @@
-pip install opencv-python
-pip install rembg
-pip install pillow
-pip install dlib
+opencv-python
+rembg
+pillow
+dlib
